@@ -1,0 +1,1 @@
+#wap take rectangle length and breadth from keyboard to display length breadth area and perimeter
