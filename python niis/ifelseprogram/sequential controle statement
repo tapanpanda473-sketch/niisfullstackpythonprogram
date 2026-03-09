@@ -1,0 +1,33 @@
+sequential controle statement
+----------------------------
+conditonal
+-----------
+if
+if else
+elif
+
+case match
+
+looping
+_______
+while 
+for in
+ternary operator style
+----------------------
+truepart if conditon else apart
+
+nested if else
+if c1:
+     if c2:
+        truepart
+     else:
+          falsepart   
+
+
+if(condition)
+
+
+
+
+if condition:
+    if block
