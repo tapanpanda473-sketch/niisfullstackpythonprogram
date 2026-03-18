@@ -1,5 +1,4 @@
-l=[]
-l.append(10)
-l.append(2.5)
-l.append("hi")
+#append
+l=[10,2.5,"hi"]
+l.append(30)
 print(l)
