@@ -1,0 +1,10 @@
+s="welcome"
+print(s[:-100:-1])#emoclew
+print(s[::-1])#emoclew
+print(s[-1::-1])#emoclew
+print(s[-1:-4:-1])#emo
+print(s[-1::-2])#eolw
+print(s[-5:-3:1])#lc
+print(s[-5:-3:-1])#nothing
+print(s[-2::])#me
+print(s[2:-6])#nothing

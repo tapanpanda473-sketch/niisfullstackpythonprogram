@@ -9,8 +9,6 @@ class Rectangle:
     def perimeter(self):
         return 2 * (self.length + self.width)
 
-
-# Creating object
 r = Rectangle(10, 5)
 
 print("Area of Rectangle:", r.area())
